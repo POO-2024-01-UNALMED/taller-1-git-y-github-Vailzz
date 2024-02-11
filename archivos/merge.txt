@@ -7,3 +7,9 @@ con el propósito de poder aplicarlo en mi vida profesional y
 en mis proyectos. 
 
 
+Al agregar el archivo "respuesta.txt", la carpeta "archivos" ya no se encontraba vacía, github detecta esta modificación
+como un cambio y ya permite hacer el commit del punto #9.
+
+
+Es importante tener cuidado al modificar archivos al mismo tiempo ya que pueden generar conflictos que puedan ocasionar bugs o la 
+perdida de código importante tanto personal como el de compañeros de equipo.
