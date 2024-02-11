@@ -1,0 +1,2 @@
+Al agregar el archivo "respuesta.txt", la carpeta "archivos" ya no se encontraba vacía, github detecta esta modificación
+como un cambio y ya permite hacer el commit del punto #9.
