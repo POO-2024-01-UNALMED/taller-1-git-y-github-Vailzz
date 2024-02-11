@@ -1,0 +1,2 @@
+Git no detecta como cambios las carpetas vacías, por ende,
+no se podía hacer el commit del punto #8.
